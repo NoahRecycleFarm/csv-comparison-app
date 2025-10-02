@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/csv-comparison-app/static/css/main.7adeaac3.css",
-    "main.js": "/csv-comparison-app/static/js/main.5bc7e68e.js",
+    "main.js": "/csv-comparison-app/static/js/main.379845c9.js",
     "static/js/453.707f9a66.chunk.js": "/csv-comparison-app/static/js/453.707f9a66.chunk.js",
     "index.html": "/csv-comparison-app/index.html",
     "main.7adeaac3.css.map": "/csv-comparison-app/static/css/main.7adeaac3.css.map",
-    "main.5bc7e68e.js.map": "/csv-comparison-app/static/js/main.5bc7e68e.js.map",
+    "main.379845c9.js.map": "/csv-comparison-app/static/js/main.379845c9.js.map",
     "453.707f9a66.chunk.js.map": "/csv-comparison-app/static/js/453.707f9a66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7adeaac3.css",
-    "static/js/main.5bc7e68e.js"
+    "static/js/main.379845c9.js"
   ]
 }
